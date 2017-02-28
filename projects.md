@@ -45,7 +45,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 1. Byszof, Michał 21.02 28.02
 49. [Cabaj, Tomasz](https://github.com/tcabaj/ASI) 28.02
 2. Gonera, Grzegorz
-3. Jabłoński, Jakub
+3. [Jabłoński, Jakub](https://github.com/jakjablonski/ASI-my)
 4. Jędzierowska, Magdalena
 5. Katovich, Darya
 55. Luszuk, Paweł 21.02
